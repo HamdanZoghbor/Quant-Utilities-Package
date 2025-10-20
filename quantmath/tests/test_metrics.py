@@ -1,6 +1,6 @@
 import pytest
 import math
-from quantmath.metrics  import (  # adjust import path as needed
+from quantmath.src.quantmath.metrics  import (  # adjust import path as needed
     arithmetic_mean,
     weighted_mean,
     geometric_mean,
